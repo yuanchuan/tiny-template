@@ -129,6 +129,6 @@ Will output
 
 
 
-## Lisence
+## License
 
 MIT
