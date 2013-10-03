@@ -1,0 +1,23 @@
+{
+  "name": "tiny-template",
+  "version": "0.0.1",
+  "description": "A tiny template engine without using `eval` or `new Function`",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanchuan/tiny-template.git"
+  },
+  "dependencies": {
+    "find": "*",
+    "mocha": "*"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "yuanchuan (yuanchuan23@gmail.com)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
